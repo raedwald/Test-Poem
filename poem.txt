@@ -1,4 +1,4 @@
-Test Blah and branch1
+Test Blah and branch1 and branch2
 
 What
 a
@@ -9,3 +9,5 @@ bull
 manure
 in
 branch1
+and
+branch2
